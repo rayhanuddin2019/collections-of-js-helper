@@ -1,0 +1,18 @@
+repo_name: rayhanuddin2019/collections-of-js-helper
+report_id: eae46b98be7ca5613bf097475a598fe2
+repo_type: Public
+timestamp: '2023-11-10T14:44:08+00:00'
+requested_by: rayhanuddin2019
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
